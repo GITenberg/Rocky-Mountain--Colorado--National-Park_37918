@@ -1,0 +1,27 @@
+_repo: Rocky-Mountain--Colorado--National-Park_37918
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37918-h/images/cover.jpg
+creator:
+  author:
+    agent_name: United States. Department of the Interior
+    aliases:
+    - Interior, United States Dept. of the
+    - United States. Dept. of the Interior
+    gutenberg_agent_id: '9338'
+    url: http://www.gutenberg.org/2009/agents/9338
+description: ''
+gutenberg_issued: '2011-11-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37918'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rocky Mountain National Park (Colo.)'
+- !lcc 'F721'
+title: Rocky Mountain National Park [Colorado]
+url: http://www.gutenberg.org/ebooks/37918
